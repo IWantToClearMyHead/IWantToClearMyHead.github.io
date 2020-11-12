@@ -1,2 +1,2 @@
-### Link
-[link to New World!](https://IWantToClearMyHead.github.io)
+### New World
+[Jump!](https://IWantToClearMyHead.github.io/test)

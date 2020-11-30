@@ -14,7 +14,9 @@
 </PRE></BLOCKQUOTE>
 这里一个格子代表一个<strong>字符</strong>，如果以数组的形式来看，也可以叫做<strong>字符数组</strong>。
 一个字符大小为一个字节(Byte)，也即八位(bit)，所以ASCII编码范围为
-<pre xml:lang="latex">sqrt2</pre>
+<a href="https://www.codecogs.com/eqnedit.php?latex=2^8" target="_blank"><pre xml:lang="latex">sqrt2</pre></a>
+
+
 
 
 

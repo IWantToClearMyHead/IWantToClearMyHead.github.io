@@ -1,9 +1,8 @@
 # Heading 1
 
-<div class="something" markdown="1">
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+<div class="something">
+  ## Heading 2
+  Some **bold** text.
 </div>
 
 

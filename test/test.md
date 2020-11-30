@@ -1,6 +1,15 @@
+<!doctype html>
 <html>
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" media="all" href="normalize.css">
+    <link rel="stylesheet" media="all" href="core.css">
+    <link rel="stylesheet" media="all" href="style.css">
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</head>
+<body data-document>&nbsp;
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+</body>
 </html>
 
 

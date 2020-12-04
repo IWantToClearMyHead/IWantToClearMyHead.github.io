@@ -1,3 +1,6 @@
-# static note
+# New World
 
-[note link](https://IWantToClearMyHead.github.io/test/)
+[Goto New World](https://IWantToClearMyHead.github.io/test/)
+
+# Note
+[Goto Note](https://IWantToClearMyHead.github.io/note/)

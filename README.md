@@ -9,12 +9,11 @@ MIT
 # Timestone
 
 <table>
-<tr>
-<td>TIME</td><td>STONE</td>
-<td>2020</td><td>-</td>
-<td>DEC4</td><td>Split operation and collection</td>
-<td>TIME</td><td>STONE</td>
-<tr>
+<tr><td>TIME</td><td>STONE</td><tr>
+<tr><td>2020</td><td>-</td><tr>
+<tr><td>DEC4</td><td>Split operation and collection</td><tr>
+<tr><td>TIME</td><td>STONE</td><tr>
+
 </table>
 
 # Taboo

@@ -308,12 +308,9 @@ document.randimg.src = images[useRand].src;
 <img name="randimg" src="iching/hexagram64.png" id="img">
 </a>
 <br>
-<font face="Verdana" size="-2" onclick='document.getElementById("display").innerHTML = document.getElementById("img").src.match(/\d+/)[0];'>show me the numb<br>
-<font face="Verdana" size="-2" onclick='console.log(10*2);' >show me the name<br>
-<font face="Verdana" size="-2">show me the guaci<br>
-<font face="Verdana" size="-2">show me the xianci<br>
-
-<p id="display"></p>
+<label><input type="button" onclick='document.getElementById("display").innerHTML = document.getElementById("img").src.match(/\d+/)[0];'>show me</label>
+<br>
+<h4 id="display">the number</h4>
     
       <h5>🚕 Level 3</h5>
 <hr>
